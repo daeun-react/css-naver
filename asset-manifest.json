@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/css-naver/static/css/main.2158c966.chunk.css",
+    "main.js": "/css-naver/static/js/main.6f98184f.chunk.js",
+    "main.js.map": "/css-naver/static/js/main.6f98184f.chunk.js.map",
+    "runtime-main.js": "/css-naver/static/js/runtime-main.e64860db.js",
+    "runtime-main.js.map": "/css-naver/static/js/runtime-main.e64860db.js.map",
+    "static/js/2.3ea321b1.chunk.js": "/css-naver/static/js/2.3ea321b1.chunk.js",
+    "static/js/2.3ea321b1.chunk.js.map": "/css-naver/static/js/2.3ea321b1.chunk.js.map",
+    "index.html": "/css-naver/index.html",
+    "static/css/main.2158c966.chunk.css.map": "/css-naver/static/css/main.2158c966.chunk.css.map",
+    "static/js/2.3ea321b1.chunk.js.LICENSE.txt": "/css-naver/static/js/2.3ea321b1.chunk.js.LICENSE.txt",
+    "static/media/naver_logo.630335df.png": "/css-naver/static/media/naver_logo.630335df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e64860db.js",
+    "static/js/2.3ea321b1.chunk.js",
+    "static/css/main.2158c966.chunk.css",
+    "static/js/main.6f98184f.chunk.js"
+  ]
+}
